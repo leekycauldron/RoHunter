@@ -1,0 +1,7 @@
+/venv
+conf.py
+/__pycache__
+test.py
+*.exe
+main_old.py
+links.txt
