@@ -6,7 +6,7 @@
 
 > ### SearchBlox (chrome extension)
 >
-> Install the extension from the Chrome Web Store: <https://chrome.google.com/webstore/detail/searchblox/klhjgkjbhjgkkmhjgkhhgjgjgjgjgjgj>
+> Install the extension from the Chrome Web Store: <https://chrome.google.com/webstore/detail/searchblox/pfnpibkjgkpifagdbjkckikghnhhmacp>
 >
 > ### Python
 >
