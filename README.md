@@ -13,6 +13,7 @@
 >Ensure you have Python 3.7+ installed. Go to <https://www.python.org/downloads/> and follow the download instructions for your OS.
 >
 >### Clone the repository
+>You can download the zip of this repo or if you want to do it from command line...
 >
 >Clone the repository to your local machine by running the terminal command:
 >
